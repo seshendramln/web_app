@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  s.no: 
+  name: MyString
+  rank: 
+  rate: 
+
+two:
+  s.no: 
+  name: MyString
+  rank: 
+  rate: 
